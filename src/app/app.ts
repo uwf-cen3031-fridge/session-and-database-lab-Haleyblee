@@ -1,6 +1,5 @@
 // Import the express and pino (logger) libraries
 import express, { Application } from "express";
-import session from "express-session";
 import { pino } from "pino";
 
 // Import our code (controllers and middleware)
